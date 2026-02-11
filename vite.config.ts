@@ -5,11 +5,8 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-<<<<<<< HEAD
   // Alterado para funcionar com GitHub Pages - substitua 'portfolio-spark' pelo nome do seu repositório se for diferente
-=======
->>>>>>> dc3fda7db6cf6c3d351d7f85c3d577fd6aca3736
-  base: "/portfolio-spark/",
+  base: "/",
   server: {
     host: "::",
     port: 8080,
