@@ -66,7 +66,7 @@ export default function HeroSection() {
             <Github className="h-5 w-5" />
           </a>
           <a
-            href="https://linkedin.com/in/caiovsa"
+            href="https://www.linkedin.com/in/caio-vasconcelos96/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full glass hover:neon-glow hover:border-primary/50 transition-all"

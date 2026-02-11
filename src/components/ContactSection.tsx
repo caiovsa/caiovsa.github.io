@@ -21,9 +21,9 @@ export default function ContactSection() {
           transition={{ delay: 0.2 }}
           className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-10"
         >
-          <a href="mailto:caio.vsa@hotmail.com" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors font-mono text-sm">
+          <a href="mailto:caiovsa2@gmail.com" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors font-mono text-sm">
             <Mail className="h-4 w-4" />
-            caio.vsa@hotmail.com
+            caiovsa2@gmail.com
           </a>
           <span className="flex items-center gap-2 text-muted-foreground font-mono text-sm">
             <MapPin className="h-4 w-4" />
@@ -47,7 +47,7 @@ export default function ContactSection() {
             <Github className="h-5 w-5" />
           </a>
           <a
-            href="https://linkedin.com/in/caiovsa"
+            href="https://www.linkedin.com/in/caio-vasconcelos96/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full glass hover:neon-glow hover:border-primary/50 transition-all"

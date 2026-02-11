@@ -24,12 +24,12 @@ export default function AboutSection() {
             <p>
               I'm an <span className="text-foreground font-semibold">AI Engineer</span> and{" "}
               <span className="text-foreground font-semibold">Data Scientist</span> with a background in
-              Electrical Engineering from UNIT and a post-graduate specialization in Artificial Intelligence
-              from Mackenzie Presbyterian University.
+              Electrical Engineering from UNIT, a post-graduate specialization in Artificial Intelligence
+              from Mackenzie Presbyterian University and currently i'm finishing my master's degree in Artificial Intelligence.
             </p>
             <p>
-              Currently, I work with <span className="text-primary">Large Language Models (LLMs)</span> and
-              Generative AI, building intelligent solutions that bridge the gap between cutting-edge research
+              Currently, I work with <span className="text-primary">Large Language Models (LLMs)</span>,
+              Generative AI and MLOps, building intelligent solutions that bridge the gap between cutting-edge research
               and real-world applications.
             </p>
             <p>
